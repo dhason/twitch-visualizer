@@ -9,6 +9,8 @@ Below are four different ways to install it.
 You must click a bookmark whenever you open the stream.
 
 1. Add and save a new bookmark with the following URL: `javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://dhason.github.io/twitch-visualizer.user.js';})();`
+Note: it may be easier to bookmark something like google.com, then edit the URL / "Location" to the above text, and rename the bookmark to whatever you like.
+
 
 2. Open up the stream.  After it loads, click on your new bookmark, and the visualizer will appear.
 
