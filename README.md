@@ -52,3 +52,6 @@ You must run the script whenever you open the stream.
     * On Opera, press `Ctrl` + `Shift` + `I`
 
 2. Paste this into the developer console, then hit Enter: `javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://dhason.github.io/twitch-visualizer.user.js';})();`
+
+## Other
+Thanks to https://github.com/jpgohlke/twitch-chat-filter/blob/master/chat_filter.user.js, a good twitch extension reference.
